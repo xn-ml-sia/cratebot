@@ -1,0 +1,5 @@
+python-telegram-bot
+ollama
+pillow
+python-dotenv
+discogs-client

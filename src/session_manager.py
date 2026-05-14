@@ -3,10 +3,6 @@ import os
 from datetime import datetime
 
 class SessionManager:
-    """
-    Handles persistent storage of analyzed vinyl records for session tracking and export.
-    Uses a local JSON file for simplicity and portability.
-    """
     def __init__(self, storage_path="data/session_history.json"):
         self.storage_path = storage_path
         self._ensure_dir()
@@ -20,8 +16,7 @@ class SessionManager:
             try:
                 with open(self.storage_path, 'r') as f:
                     return json.load(f)
-            except (json.JSONDecodeError, IOError) as e:
-                print(f"Error loading history: {e}")
+            except (json.JSONDecodeError, IOError):
                 return []
         return []
 
@@ -29,11 +24,10 @@ class SessionManager:
         try:
             with open(self.storage_path, 'w') as f:
                 json.dump(self.history, f, indent=4)
-        except IOError as e:
-            print(f"Error saving history: {e}")
+        except IOError:
+            pass
 
     def add_record(self, release_id, artist, title, year, price, available, verdict, reason, media_condition="Near Mint", sleeve_condition="Near Mint"):
-        """Adds a new record to the session history with Discogs-compatible fields."""
         record = {
             "timestamp": datetime.now().isoformat(),
             "release_id": int(release_id),
@@ -55,10 +49,8 @@ class SessionManager:
         return record
 
     def get_all_records(self):
-        """Returns the full list of recorded albums."""
         return self.history
 
     def clear_history(self):
-        """Wipes the current session history."""
         self.history = []
         self._save_history()

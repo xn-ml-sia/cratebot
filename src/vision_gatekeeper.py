@@ -32,7 +32,7 @@ class VisionGatekeeper:
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json",
             "HTTP-Referer": "https://github.com/joachimdemuth/shouldibuythisvinyl",
-            "X-Title": "Vinyl Gatekeeper"
+            "X-Title": "Second Life, Inc"
         }
 
         payload = {
@@ -86,7 +86,7 @@ class VisionGatekeeper:
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json",
             "HTTP-Referer": "https://github.com/joachimdemuth/shouldibuythisvinyl",
-            "X-Title": "Vinyl Gatekeeper"
+            "X-Title": "Second Life, Inc"
         }
 
         payload = {

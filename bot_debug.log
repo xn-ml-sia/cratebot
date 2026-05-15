@@ -20,7 +20,7 @@
 2026-05-12 12:03:05,479 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:03:05,480 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:03:05,480 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:03:05,480 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:03:05,480 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:03:05,481 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:03:05,481 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:03:05,481 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -257,7 +257,7 @@
 2026-05-12 12:05:07,142 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:05:07,142 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:05:07,143 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:05:07,143 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 7, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580307, 'text': '🔍 Starting Pipeline...'}`
+2026-05-12 12:05:07,143 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 7, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580307, 'text': '🔍 Starting Pipeline...'}`
 2026-05-12 12:05:07,144 - VinylBot - INFO - DEBUG: Status message sent to user.
 2026-05-12 12:05:07,144 - VinylBot - INFO - DEBUG: Downloading photo...
 2026-05-12 12:05:07,144 - telegram.ext.ExtBot - DEBUG - Calling Bot API endpoint `getFile` with parameters `{'file_id': 'AgACAgIAAxkBAAMGagL7Uq1JVn2O-8s_uq1aoFjheskAAuwUaxuMfhhIirSoNS-0lh8BAAMCAAN5AAM7BA'}`
@@ -297,7 +297,7 @@
 2026-05-12 12:05:07,462 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:05:07,463 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:05:07,463 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:05:07,463 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 7, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580307, 'edit_date': 1778580307, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
+2026-05-12 12:05:07,463 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 7, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580307, 'edit_date': 1778580307, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
 2026-05-12 12:05:07,464 - VinylBot - INFO - DEBUG: Calling VisionGatekeeper...
 2026-05-12 12:05:07,467 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:05:07,841 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 404 None
@@ -314,7 +314,7 @@
 2026-05-12 12:05:07,956 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:05:07,956 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:05:07,957 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:05:07,957 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 7, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580307, 'edit_date': 1778580307, 'text': '❌ Vision Error: Cloud Vision failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions', 'entities': [{'offset': 74, 'length': 45, 'type': 'url'}], 'link_preview_options': {'is_disabled': True}}`
+2026-05-12 12:05:07,957 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 7, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580307, 'edit_date': 1778580307, 'text': '❌ Vision Error: Cloud Vision failed: 404 Client Error: Not Found for url: https://openrouter.ai/api/v1/chat/completions', 'entities': [{'offset': 74, 'length': 45, 'type': 'url'}], 'link_preview_options': {'is_disabled': True}}`
 2026-05-12 12:05:17,004 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx/1.18.0'), (b'Date', b'Tue, 12 May 2026 10:05:17 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'23'), (b'Connection', b'keep-alive'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Methods', b'GET, POST, OPTIONS'), (b'Access-Control-Expose-Headers', b'Content-Length,Content-Type,Date,Server,Connection')])
 2026-05-12 12:05:17,005 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8395222077:AAFkVBc5eb8VErwws-yZFVRMFH_6rG8OqS0/getUpdates "HTTP/1.1 200 OK"
 2026-05-12 12:05:17,006 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
@@ -571,7 +571,7 @@
 2026-05-12 12:07:36,546 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:07:36,546 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:07:36,546 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:07:36,546 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:07:36,546 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:07:36,546 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:07:36,546 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:07:36,547 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -654,7 +654,7 @@
 2026-05-12 12:07:48,544 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:07:48,545 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:07:48,545 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:07:48,546 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 9, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580468, 'text': '🔍 Starting Pipeline...'}`
+2026-05-12 12:07:48,546 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 9, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580468, 'text': '🔍 Starting Pipeline...'}`
 2026-05-12 12:07:48,546 - VinylBot - INFO - DEBUG: Status message sent to user.
 2026-05-12 12:07:48,546 - VinylBot - INFO - DEBUG: Downloading photo...
 2026-05-12 12:07:48,547 - telegram.ext.ExtBot - DEBUG - Calling Bot API endpoint `getFile` with parameters `{'file_id': 'AgACAgIAAxkBAAMGagL7Uq1JVn2O-8s_uq1aoFjheskAAuwUaxuMfhhIirSoNS-0lh8BAAMCAAN5AAM7BA'}`
@@ -694,7 +694,7 @@
 2026-05-12 12:07:48,759 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:07:48,760 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:07:48,760 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:07:48,760 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 9, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580468, 'edit_date': 1778580468, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
+2026-05-12 12:07:48,760 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 9, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580468, 'edit_date': 1778580468, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
 2026-05-12 12:07:48,761 - VinylBot - INFO - DEBUG: Calling VisionGatekeeper...
 2026-05-12 12:07:48,765 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:07:49,146 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 404 None
@@ -711,7 +711,7 @@
 2026-05-12 12:07:49,203 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:07:49,203 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:07:49,203 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:07:49,204 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 9, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580468, 'edit_date': 1778580469, 'text': '❌ Vision Error: OpenRouter Error (404): {"error":{"message":"No endpoints found for google/gemini-flash-1.5.","code":404},"user_id":"user_3917qfz7NdcdJTtTRd0CHsnXxRm"}'}`
+2026-05-12 12:07:49,204 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 9, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778580468, 'edit_date': 1778580469, 'text': '❌ Vision Error: OpenRouter Error (404): {"error":{"message":"No endpoints found for google/gemini-flash-1.5.","code":404},"user_id":"user_3917qfz7NdcdJTtTRd0CHsnXxRm"}'}`
 2026-05-12 12:07:58,415 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx/1.18.0'), (b'Date', b'Tue, 12 May 2026 10:07:58 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'23'), (b'Connection', b'keep-alive'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Methods', b'GET, POST, OPTIONS'), (b'Access-Control-Expose-Headers', b'Content-Length,Content-Type,Date,Server,Connection')])
 2026-05-12 12:07:58,416 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8395222077:AAFkVBc5eb8VErwws-yZFVRMFH_6rG8OqS0/getUpdates "HTTP/1.1 200 OK"
 2026-05-12 12:07:58,417 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
@@ -1052,7 +1052,7 @@
 2026-05-12 12:11:21,471 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:11:21,471 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:11:21,471 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:11:21,471 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:11:21,471 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:11:21,472 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:11:21,472 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:11:21,472 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -2649,7 +2649,7 @@
 2026-05-12 12:29:28,176 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:29:28,176 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:29:28,176 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:29:28,176 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:29:28,176 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:29:28,176 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:29:28,177 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:29:28,177 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -2732,7 +2732,7 @@
 2026-05-12 12:29:41,566 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:29:41,566 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:29:41,566 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:29:41,567 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'text': '🔍 Starting Pipeline...'}`
+2026-05-12 12:29:41,567 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'text': '🔍 Starting Pipeline...'}`
 2026-05-12 12:29:41,567 - VinylBot - INFO - DEBUG: Status message sent to user.
 2026-05-12 12:29:41,567 - VinylBot - INFO - DEBUG: Downloading photo...
 2026-05-12 12:29:41,567 - telegram.ext.ExtBot - DEBUG - Calling Bot API endpoint `getFile` with parameters `{'file_id': 'AgACAgIAAxkBAAMGagL7Uq1JVn2O-8s_uq1aoFjheskAAuwUaxuMfhhIirSoNS-0lh8BAAMCAAN5AAM7BA'}`
@@ -2772,7 +2772,7 @@
 2026-05-12 12:29:41,804 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:29:41,805 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:29:41,805 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:29:41,806 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'edit_date': 1778581781, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
+2026-05-12 12:29:41,806 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'edit_date': 1778581781, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
 2026-05-12 12:29:41,806 - VinylBot - INFO - DEBUG: Calling VisionGatekeeper...
 2026-05-12 12:29:41,810 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:29:43,252 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 200 None
@@ -2789,7 +2789,7 @@
 2026-05-12 12:29:43,567 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:29:43,568 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:29:43,568 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:29:43,569 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'edit_date': 1778581783, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
+2026-05-12 12:29:43,569 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'edit_date': 1778581783, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
 2026-05-12 12:29:43,570 - VinylBot - INFO - DEBUG: Searching Discogs for Michael Jackson - Michael
 2026-05-12 12:29:43,572 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.discogs.com:443
 2026-05-12 12:29:43,974 - urllib3.connectionpool - DEBUG - https://api.discogs.com:443 "GET /database/search?type=release&q=artist%3AMichael%20Jackson%20AND%20release%3AMichael&page=1&per_page=50&token=tlrfayHTByjdefbUPJRUOsjHgwicmjafZUecICwy HTTP/1.1" 200 None
@@ -2806,7 +2806,7 @@
 2026-05-12 12:29:44,035 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:29:44,035 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:29:44,035 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:29:44,036 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'edit_date': 1778581784, 'text': "❌ Discogs Error: Discogs search failed: 'Release' object has no attribute 'artist'"}`
+2026-05-12 12:29:44,036 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 11, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581781, 'edit_date': 1778581784, 'text': "❌ Discogs Error: Discogs search failed: 'Release' object has no attribute 'artist'"}`
 2026-05-12 12:29:51,447 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx/1.18.0'), (b'Date', b'Tue, 12 May 2026 10:29:51 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'23'), (b'Connection', b'keep-alive'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Methods', b'GET, POST, OPTIONS'), (b'Access-Control-Expose-Headers', b'Content-Length,Content-Type,Date,Server,Connection')])
 2026-05-12 12:29:51,449 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8395222077:AAFkVBc5eb8VErwws-yZFVRMFH_6rG8OqS0/getUpdates "HTTP/1.1 200 OK"
 2026-05-12 12:29:51,449 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
@@ -2951,7 +2951,7 @@
 2026-05-12 12:30:50,550 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:30:50,550 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:30:50,550 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:30:50,551 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:30:50,551 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:30:50,551 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:30:50,551 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:30:50,551 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -3034,7 +3034,7 @@
 2026-05-12 12:31:02,312 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:31:02,313 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:31:02,313 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:31:02,313 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'text': '🔍 Starting Pipeline...'}`
+2026-05-12 12:31:02,313 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'text': '🔍 Starting Pipeline...'}`
 2026-05-12 12:31:02,314 - VinylBot - INFO - DEBUG: Status message sent to user.
 2026-05-12 12:31:02,314 - VinylBot - INFO - DEBUG: Downloading photo...
 2026-05-12 12:31:02,314 - telegram.ext.ExtBot - DEBUG - Calling Bot API endpoint `getFile` with parameters `{'file_id': 'AgACAgIAAxkBAAMGagL7Uq1JVn2O-8s_uq1aoFjheskAAuwUaxuMfhhIirSoNS-0lh8BAAMCAAN5AAM7BA'}`
@@ -3074,7 +3074,7 @@
 2026-05-12 12:31:02,533 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:31:02,534 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:31:02,534 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:31:02,535 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'edit_date': 1778581862, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
+2026-05-12 12:31:02,535 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'edit_date': 1778581862, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
 2026-05-12 12:31:02,535 - VinylBot - INFO - DEBUG: Calling VisionGatekeeper...
 2026-05-12 12:31:02,539 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:31:03,755 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 200 None
@@ -3091,7 +3091,7 @@
 2026-05-12 12:31:04,069 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:31:04,069 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:31:04,069 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:31:04,070 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'edit_date': 1778581864, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
+2026-05-12 12:31:04,070 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'edit_date': 1778581864, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
 2026-05-12 12:31:04,070 - VinylBot - INFO - DEBUG: Searching Discogs for Michael Jackson - Michael
 2026-05-12 12:31:04,071 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.discogs.com:443
 2026-05-12 12:31:04,319 - urllib3.connectionpool - DEBUG - https://api.discogs.com:443 "GET /database/search?type=release&q=artist%3AMichael%20Jackson%20AND%20release%3AMichael&page=1&per_page=50&token=tlrfayHTByjdefbUPJRUOsjHgwicmjafZUecICwy HTTP/1.1" 200 None
@@ -3110,7 +3110,7 @@
 2026-05-12 12:31:04,758 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:31:04,759 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:31:04,759 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:31:04,760 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'edit_date': 1778581864, 'text': "❌ Discogs Error: Discogs search failed: 'Artist' object is not subscriptable"}`
+2026-05-12 12:31:04,760 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 13, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581862, 'edit_date': 1778581864, 'text': "❌ Discogs Error: Discogs search failed: 'Artist' object is not subscriptable"}`
 2026-05-12 12:31:12,207 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx/1.18.0'), (b'Date', b'Tue, 12 May 2026 10:31:12 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'23'), (b'Connection', b'keep-alive'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Methods', b'GET, POST, OPTIONS'), (b'Access-Control-Expose-Headers', b'Content-Length,Content-Type,Date,Server,Connection')])
 2026-05-12 12:31:12,209 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8395222077:AAFkVBc5eb8VErwws-yZFVRMFH_6rG8OqS0/getUpdates "HTTP/1.1 200 OK"
 2026-05-12 12:31:12,209 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
@@ -3227,7 +3227,7 @@
 2026-05-12 12:31:51,658 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:31:51,658 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:31:51,659 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:31:51,659 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:31:51,659 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:31:51,659 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:31:51,659 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:31:51,659 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -3310,7 +3310,7 @@
 2026-05-12 12:32:11,292 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:32:11,292 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:32:11,293 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:32:11,293 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'text': '🔍 Starting Pipeline...'}`
+2026-05-12 12:32:11,293 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'text': '🔍 Starting Pipeline...'}`
 2026-05-12 12:32:11,294 - VinylBot - INFO - DEBUG: Status message sent to user.
 2026-05-12 12:32:11,294 - VinylBot - INFO - DEBUG: Downloading photo...
 2026-05-12 12:32:11,294 - telegram.ext.ExtBot - DEBUG - Calling Bot API endpoint `getFile` with parameters `{'file_id': 'AgACAgIAAxkBAAMGagL7Uq1JVn2O-8s_uq1aoFjheskAAuwUaxuMfhhIirSoNS-0lh8BAAMCAAN5AAM7BA'}`
@@ -3350,7 +3350,7 @@
 2026-05-12 12:32:11,535 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:32:11,536 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:32:11,536 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:32:11,537 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'edit_date': 1778581931, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
+2026-05-12 12:32:11,537 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'edit_date': 1778581931, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
 2026-05-12 12:32:11,538 - VinylBot - INFO - DEBUG: Calling VisionGatekeeper...
 2026-05-12 12:32:11,543 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:32:13,981 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 200 None
@@ -3367,7 +3367,7 @@
 2026-05-12 12:32:14,066 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:32:14,066 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:32:14,066 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:32:14,067 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'edit_date': 1778581934, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
+2026-05-12 12:32:14,067 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'edit_date': 1778581934, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
 2026-05-12 12:32:14,068 - VinylBot - INFO - DEBUG: Searching Discogs for Michael Jackson - Michael
 2026-05-12 12:32:14,070 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.discogs.com:443
 2026-05-12 12:32:14,381 - urllib3.connectionpool - DEBUG - https://api.discogs.com:443 "GET /database/search?type=release&q=artist%3AMichael%20Jackson%20AND%20release%3AMichael&page=1&per_page=50&token=tlrfayHTByjdefbUPJRUOsjHgwicmjafZUecICwy HTTP/1.1" 200 None
@@ -3386,7 +3386,7 @@
 2026-05-12 12:32:14,888 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:32:14,889 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:32:14,889 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:32:14,890 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'edit_date': 1778581934, 'text': "❌ Discogs Error: Discogs search failed: 'Release' object has no attribute 'format'"}`
+2026-05-12 12:32:14,890 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 15, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778581931, 'edit_date': 1778581934, 'text': "❌ Discogs Error: Discogs search failed: 'Release' object has no attribute 'format'"}`
 2026-05-12 12:32:21,185 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx/1.18.0'), (b'Date', b'Tue, 12 May 2026 10:32:21 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'23'), (b'Connection', b'keep-alive'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Methods', b'GET, POST, OPTIONS'), (b'Access-Control-Expose-Headers', b'Content-Length,Content-Type,Date,Server,Connection')])
 2026-05-12 12:32:21,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8395222077:AAFkVBc5eb8VErwws-yZFVRMFH_6rG8OqS0/getUpdates "HTTP/1.1 200 OK"
 2026-05-12 12:32:21,188 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
@@ -3909,7 +3909,7 @@
 2026-05-12 12:37:52,549 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:37:52,549 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:37:52,549 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:37:52,550 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:37:52,550 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:37:52,550 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:37:52,550 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:37:52,550 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -4004,7 +4004,7 @@
 2026-05-12 12:38:03,928 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:38:03,928 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:38:03,928 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:38:03,929 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
+2026-05-12 12:38:03,929 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `getMe` finished with return value `{'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False, 'supports_guest_queries': False, 'can_connect_to_business': False, 'has_main_web_app': False, 'has_topics_enabled': False, 'allows_users_to_create_topics': False, 'can_manage_bots': False}`
 2026-05-12 12:38:03,929 - telegram.ext.ExtBot - DEBUG - This Bot is already initialized.
 2026-05-12 12:38:03,929 - telegram.ext - DEBUG - Network Retry Loop (Bootstrap Initialize Application): Action succeeded. Stopping loop.
 2026-05-12 12:38:03,929 - telegram.ext.Updater - DEBUG - Updater started (polling)
@@ -4087,7 +4087,7 @@
 2026-05-12 12:38:16,880 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:38:16,880 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:38:16,880 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:38:16,881 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'text': '🔍 Starting Pipeline...'}`
+2026-05-12 12:38:16,881 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `sendMessage` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'text': '🔍 Starting Pipeline...'}`
 2026-05-12 12:38:16,881 - VinylBot - INFO - DEBUG: Status message sent to user.
 2026-05-12 12:38:16,881 - VinylBot - INFO - DEBUG: Downloading photo...
 2026-05-12 12:38:16,881 - telegram.ext.ExtBot - DEBUG - Calling Bot API endpoint `getFile` with parameters `{'file_id': 'AgACAgIAAxkBAAMGagL7Uq1JVn2O-8s_uq1aoFjheskAAuwUaxuMfhhIirSoNS-0lh8BAAMCAAN5AAM7BA'}`
@@ -4127,7 +4127,7 @@
 2026-05-12 12:38:17,153 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:38:17,153 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:38:17,153 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:38:17,154 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582297, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
+2026-05-12 12:38:17,154 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582297, 'text': '🧠 Analyzing cover (Cloud Vision)...'}`
 2026-05-12 12:38:17,155 - VinylBot - INFO - DEBUG: Calling VisionGatekeeper...
 2026-05-12 12:38:17,160 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:38:19,117 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 200 None
@@ -4144,7 +4144,7 @@
 2026-05-12 12:38:19,341 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:38:19,341 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:38:19,341 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:38:19,342 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582299, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
+2026-05-12 12:38:19,342 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582299, 'text': '💿 Found: *Michael Jackson — Michael*\nSearching Discogs...'}`
 2026-05-12 12:38:19,342 - VinylBot - INFO - DEBUG: Searching Discogs for Michael Jackson - Michael
 2026-05-12 12:38:19,344 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api.discogs.com:443
 2026-05-12 12:38:19,653 - urllib3.connectionpool - DEBUG - https://api.discogs.com:443 "GET /database/search?type=release&q=artist%3AMichael%20Jackson%20AND%20release%3AMichael&page=1&per_page=50&token=tlrfayHTByjdefbUPJRUOsjHgwicmjafZUecICwy HTTP/1.1" 200 None
@@ -4163,7 +4163,7 @@
 2026-05-12 12:38:20,148 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:38:20,148 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:38:20,148 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:38:20,149 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582300, 'text': '⚖️ Consulting the Expert Appraiser...'}`
+2026-05-12 12:38:20,149 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582300, 'text': '⚖️ Consulting the Expert Appraiser...'}`
 2026-05-12 12:38:20,149 - VinylBot - INFO - DEBUG: Calling OpenRouter with metadata: {'artist': 'Michael Jackson', 'album': 'Michael'}
 2026-05-12 12:38:20,150 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): openrouter.ai:443
 2026-05-12 12:38:20,252 - urllib3.connectionpool - DEBUG - https://openrouter.ai:443 "POST /api/v1/chat/completions HTTP/1.1" 404 None
@@ -4181,7 +4181,7 @@
 2026-05-12 12:38:20,423 - httpcore.http11 - DEBUG - receive_response_body.complete
 2026-05-12 12:38:20,423 - httpcore.http11 - DEBUG - response_closed.started
 2026-05-12 12:38:20,423 - httpcore.http11 - DEBUG - response_closed.complete
-2026-05-12 12:38:20,424 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localcratebot'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582300, 'text': '💿 Monica — An Open-Ended Interview\n\n💰 Market Snapshot:\n• Current: $32.50\n• Median: $48.00\n\n⚖️ Verdict: ERROR\nBrain offline.', 'entities': [{'offset': 111, 'length': 14, 'type': 'italic'}]}`
+2026-05-12 12:38:20,424 - telegram.ext.ExtBot - DEBUG - Call to Bot API endpoint `editMessageText` finished with return value `{'message_id': 17, 'from': {'id': 8395222077, 'is_bot': True, 'first_name': 'crate bot', 'username': 'localsecond-life-inc'}, 'chat': {'id': 1582171163, 'first_name': 'Mal', 'username': 'errthangisalive', 'type': 'private'}, 'date': 1778582296, 'edit_date': 1778582300, 'text': '💿 Monica — An Open-Ended Interview\n\n💰 Market Snapshot:\n• Current: $32.50\n• Median: $48.00\n\n⚖️ Verdict: ERROR\nBrain offline.', 'entities': [{'offset': 111, 'length': 14, 'type': 'italic'}]}`
 2026-05-12 12:38:20,425 - VinylBot - INFO - DEBUG: Pipeline complete. Message sent.
 2026-05-12 12:38:26,778 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Server', b'nginx/1.18.0'), (b'Date', b'Tue, 12 May 2026 10:38:26 GMT'), (b'Content-Type', b'application/json'), (b'Content-Length', b'23'), (b'Connection', b'keep-alive'), (b'Strict-Transport-Security', b'max-age=31536000; includeSubDomains; preload'), (b'Access-Control-Allow-Origin', b'*'), (b'Access-Control-Allow-Methods', b'GET, POST, OPTIONS'), (b'Access-Control-Expose-Headers', b'Content-Length,Content-Type,Date,Server,Connection')])
 2026-05-12 12:38:26,780 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8395222077:AAFkVBc5eb8VErwws-yZFVRMFH_6rG8OqS0/getUpdates "HTTP/1.1 200 OK"

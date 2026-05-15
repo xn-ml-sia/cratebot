@@ -1,4 +1,4 @@
-# Vinyl Gatekeeper
+# Second Life, Inc
 
 A specialized tool for managing vinyl catalog data and marketplace intelligence.
 
@@ -6,8 +6,8 @@ A specialized tool for managing vinyl catalog data and marketplace intelligence.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/xn-ml-sia/cratebot.git
-cd cratebot
+git clone https://github.com/xn-ml-sia/second-life-inc.git
+cd second-life-inc
 ```
 
 ### 2. Environment Setup
